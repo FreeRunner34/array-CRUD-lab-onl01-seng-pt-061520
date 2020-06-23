@@ -7,7 +7,8 @@ end
 
 def add_element_to_end_of_array 
   sample_array ["wow!"] 
-  
+  end 
+  sample_array<< "Arrays!"
  end 
 
 

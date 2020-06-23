@@ -5,11 +5,8 @@ def create_an_array
   ["Nikolaus", "Brianna", "James", "Talor" ]
 end
 
-def add_element_to_end_of_array 
-  []
-end
+def add_element_to_end_of_array.push ("arrays!")
 
-add_element_to_end_of_array.push ("arrays!")
 
 
 def add_element_to_start_of_array(array, element)

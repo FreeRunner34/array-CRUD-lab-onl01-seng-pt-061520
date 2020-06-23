@@ -1,6 +1,9 @@
 def create_an_empty_array
   []
 end
+
+def test_array [] end 
+  
 def create_an_array
   ["Nikolaus", "Brianna", "James", "Talor" ]
 end

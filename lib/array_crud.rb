@@ -5,10 +5,7 @@ def create_an_array
   ["Nikolaus", "Brianna", "James", "Talor" ]
 end
 
-def add_element_to_end_of_array 
-  sample_array ["wow!"] 
-
-  sample_array.push ("Arrays!")
+def add_element_to_end_of_array ()
  end 
 
 
